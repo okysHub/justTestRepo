@@ -10,11 +10,7 @@ namespace repotest
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("ghccxcxcghggh");//
-
-			l
-			
-ауеср
+			BRANCH_NEW
  		}
 	}
 }
