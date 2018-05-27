@@ -13,7 +13,7 @@ namespace repotest
 			Console.WriteLine("ghccxcxcghggh");//
 
 
-			Lazy<String> lazy = new Lazy<string>();
+			
 
  		}
 	}
