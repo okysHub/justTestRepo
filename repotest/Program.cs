@@ -17,6 +17,7 @@ namespace repotest
 
 			COMMIT FRPM REPO
 			
+					COMMIT FRPM REPO2
  		}
 	}
 }
