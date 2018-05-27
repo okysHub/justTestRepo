@@ -10,6 +10,7 @@ namespace repotest
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine("ghccxcxcghggh");
 		}
 	}
 }
