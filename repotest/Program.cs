@@ -11,6 +11,10 @@ namespace repotest
 		static void Main(string[] args)
 		{
 			Console.WriteLine("ghccxcxcghggh");//
-		}
+
+
+			Lazy<String> lazy = new Lazy<string>();
+			lazy.ToString();
+ 		}
 	}
 }
